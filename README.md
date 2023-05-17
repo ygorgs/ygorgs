@@ -1,11 +1,29 @@
 ## Hi there 👋
 ### My name's Ygor and I am a Software Developer
 
-<div align="left">
-  <a href="https://github.com/ygorgs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorgs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorgs&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ygorgs&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ygorgs&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorgs&show_icons=true" />
+</picture>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorgs&layout=compact&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorgs&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorgs&layout=compact" />
+</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
